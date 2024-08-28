@@ -9,6 +9,7 @@
 
 <body>
     <h1>Bonjour les WADS!</h1>
+    On continue: 
 
     <?php
     include "./vendor/autoload.php";
